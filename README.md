@@ -7,7 +7,7 @@
 
 ![screenshot](./images/app_screenshot.png)
 
-| *Screenshot of the intro section of the portfolio [Desktop version]*
+| *Screenshot of the intro section of the portfolio*
 
 ## Built With
 
@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 - **Open** the terminal.
 - **Run** `cd \path\to\where\you\want\your\local\copy`
 - **Clone** the repo
-  1. **Run** `git clone git@github.com:IsaMarvin/Portfolio-Microverse.git`
+  1. **Run** `git clone git@github.com:IsaMarvin/Portfolio.git`
   2. **Run** `cd README/`
 
 ### Install
