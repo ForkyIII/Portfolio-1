@@ -43,19 +43,19 @@ li {
   font-size: 1.6rem;
 }
 
-.intro__heading {
+.info__heading {
   font-size: 4rem;
   line-height: 5.2rem;
   color: var(--dark-black);
   font-weight: var(--bold);
 }
 
-.intro__txt {
+.info__txt {
   line-height: 2.4rem;
   color: var(--text);
 }
 
-.intro__subheading {
+.info__subheading {
   color: var(--light-blue);
   font-weight: var(--semi-bold);
 }
