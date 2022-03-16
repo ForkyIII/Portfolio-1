@@ -11,6 +11,10 @@
   --btn-txt: #396df2;
   --lingo-bg: #f7f7f9;
   --lingo-txt: #253858;
+  --dark-blue: #2230d2;
+  --old-gray: #5e6c84;
+  --semi-bold: 500;
+  --bold: 700;
 }
 
 html {
@@ -35,23 +39,23 @@ li {
   background-size: 100%;
 }
 
-.intro__items {
+.info__items {
   font-size: 1.6rem;
 }
 
-.intro__items--heading {
+.intro__heading {
   font-size: 4rem;
   line-height: 5.2rem;
   color: var(--dark-black);
-  font-weight: 700;
+  font-weight: var(--bold);
 }
 
-.intro__items--txt {
+.intro__txt {
   line-height: 2.4rem;
   color: var(--text);
 }
 
-.intro__items--subheading {
+.intro__subheading {
   color: var(--light-blue);
-  font-weight: 500;
+  font-weight: var(--semi-bold);
 }
