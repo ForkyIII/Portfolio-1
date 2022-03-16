@@ -59,3 +59,110 @@ li {
   color: var(--light-blue);
   font-weight: var(--semi-bold);
 }
+
+.card {
+  background-color: var(--white);
+}
+
+.card__heading {
+  font-weight: var(--bold);
+  font-size: 3.2rem;
+  color: var(--dark-black);
+}
+
+.card__tags {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+.dot {
+  background-color: var(--light);
+}
+
+.card__items {
+  color: var(--gray);
+}
+
+.card__items--dark {
+  color: var(--text);
+}
+
+.card__description {
+  font-size: 1.5rem;
+  line-height: 2.4rem;
+  color: var(--text);
+}
+
+.card__lists {
+  background-color: var(--btn-bg);
+  color: var(--blue);
+  font-weight: var(--semi-bold);
+  font-size: 1.2rem;
+}
+
+.card__button {
+  color: var(--btn-txt);
+  letter-spacing: 0.03em;
+  font-size: 1.8rem;
+  background-color: var(--white);
+  cursor: pointer;
+  border: 0.1rem solid var(--blue);
+  border-radius: 1.3rem;
+}
+
+.card__button:hover {
+  background: var(--blue);
+  color: var(--white);
+}
+
+.card__button:active {
+  background: var(--dark-blue);
+  color: var(--white);
+}
+
+.card__button:disabled {
+  background: var(--white);
+  color: var(--old-gray);
+}
+
+.about {
+  background-color: var(--white);
+}
+
+.info__subheading--about {
+  margin: 1rem 0 2rem;
+}
+
+.info__social--about {
+  padding-left: 2.2rem;
+}
+
+.card__button--about {
+  width: 14rem;
+  letter-spacing: 0.03em;
+}
+
+.stack__item {
+  font-weight: var(--semi-bold);
+  font-size: 2rem;
+}
+
+.lang__items {
+  background-color: var(--lingo-bg);
+  color: var(--lingo-txt);
+}
+
+.lang h4 {
+  font-size: 1.5rem;
+  font-weight: var(--semi-bold);
+  color: var(--lingo-txt);
+}
+
+.skills h3 {
+  font-weight: var(--semi-bold);
+  font-size: 2rem;
+}
+
+.border {
+  border-bottom: 1px solid var(--lingo-bg);
+}
