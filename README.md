@@ -46,8 +46,6 @@ To get a local copy up and running follow these simple example steps.
 
   1. **Run** `npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x`
 
-### Usage
-
 ### Run tests
 
 - run **Webhint** linter
@@ -58,8 +56,6 @@ To get a local copy up and running follow these simple example steps.
   - **Run** `npx eslint .` on the root of your directory of your project.
 
 ## Author
-
-<!-- Only Change Username for Different Accounts -->
 
  Platform | Badge |
  --- | --- |
